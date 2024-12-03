@@ -1,1 +1,1 @@
-Un nouveau fichier conflictuel créé sur la branche master
+Un nouveau fichier conflictuel créé sur la branche conflit
