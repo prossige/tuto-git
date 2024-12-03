@@ -1,2 +1,3 @@
 Une première modification de bidule
 Une deuxième modification de bidule
+Une modification de bidule dans la branche feature.
